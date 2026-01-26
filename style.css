@@ -109,3 +109,8 @@ footer {
     font-size: 0.9em;
     color: #555;
 }
+.project-btn:hover {
+    background: #00e5ff;
+    color: #000;
+}
+
